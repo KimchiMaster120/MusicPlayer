@@ -22,7 +22,7 @@ body {
 
 .music-container {
 
-    background: white;
+    background: rgb(255,255,255);
     border-radius: 15px;
     display: flex;
     padding: 20px 30px;
